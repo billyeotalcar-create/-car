@@ -9,6 +9,11 @@ export const metadata = {
   metadataBase: new URL(siteUrl),
   title: siteTitle,
   description: siteDescription,
+  verification: {
+    other: {
+      "naver-site-verification": "3d5b896364e0e1ea524d87e1b5a2c75d31c00d98",
+    },
+  },
   alternates: {
     canonical: "/",
   },
