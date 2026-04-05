@@ -6,6 +6,7 @@ import BenefitsSection from "./BenefitsSection";
 import ProcessSection from "./ProcessSection";
 import ContactSection from "./ContactSection";
 import FloatingKakaoButton from "./FloatingKakaoButton";
+import SiteFooter from "./SiteFooter";
 
 export default function LandingPage() {
   return (
@@ -18,6 +19,7 @@ export default function LandingPage() {
         <ProcessSection />
         <ContactSection />
       </main>
+      <SiteFooter />
       <FloatingKakaoButton />
     </div>
   );
