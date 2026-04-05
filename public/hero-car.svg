@@ -1,0 +1,35 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="612" cy="630" rx="350" ry="48" fill="#DDE9F8"/>
+  <path d="M276 506L338 372C359 319 410 284 468 284H748C805 284 857 319 878 372L940 506" fill="url(#paint0_linear)"/>
+  <path d="M276 506L338 372C359 319 410 284 468 284H748C805 284 857 319 878 372L940 506" stroke="#D8E5F6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222 520H994" stroke="#1D2A40" stroke-width="14" stroke-linecap="round"/>
+  <path d="M340 372H864" stroke="#EFF5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M432 298L514 210C545 177 590 158 637 158H726C766 158 804 174 833 202L918 284H432V298Z" fill="url(#paint1_linear)"/>
+  <path d="M432 298L514 210C545 177 590 158 637 158H726C766 158 804 174 833 202L918 284H432V298Z" stroke="#D8E5F6" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M528 284L586 206C603 183 629 170 657 170H720C748 170 774 181 793 201L864 284H528Z" fill="#CFE1F8"/>
+  <path d="M528 284L586 206C603 183 629 170 657 170H720C748 170 774 181 793 201L864 284H528Z" stroke="#EAF2FC" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M598 188V284" stroke="#EAF2FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M760 188V284" stroke="#EAF2FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M451 462H767" stroke="#C8D8EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M785 462H824" stroke="#8CB8F6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M310 514V562C310 587 330 607 355 607H375C400 607 420 587 420 562V514" stroke="#1D2A40" stroke-width="14" stroke-linecap="round"/>
+  <path d="M803 514V562C803 587 823 607 848 607H868C893 607 913 587 913 562V514" stroke="#1D2A40" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="392" cy="520" r="89" fill="#19283D"/>
+  <circle cx="392" cy="520" r="56" fill="#F7FAFE"/>
+  <circle cx="392" cy="520" r="24" fill="#C5D5EA"/>
+  <circle cx="831" cy="520" r="89" fill="#19283D"/>
+  <circle cx="831" cy="520" r="56" fill="#F7FAFE"/>
+  <circle cx="831" cy="520" r="24" fill="#C5D5EA"/>
+  <path d="M253 500H305C322 500 336 514 336 531V540H231V522C231 510 241 500 253 500Z" fill="#F3B36D"/>
+  <path d="M895 500H950C962 500 973 510 973 522V540H867V531C867 514 881 500 895 500Z" fill="#D44C4C"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="608" y1="284" x2="608" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAFCFF"/>
+      <stop offset="1" stop-color="#DCE8F7"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="675" y1="158" x2="675" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#E4EEF9"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "name": "billertal-car",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

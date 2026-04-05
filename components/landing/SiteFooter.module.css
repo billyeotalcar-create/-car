@@ -1,0 +1,32 @@
+.footer {
+  border-top: 1px solid var(--line);
+  background: var(--white);
+}
+
+.inner {
+  width: min(1160px, calc(100% - 2rem));
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.4rem 0;
+}
+
+.brand {
+  font-weight: 800;
+  color: var(--navy);
+}
+
+.text {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+@media (max-width: 640px) {
+  .inner {
+    width: calc(100% - 1.25rem);
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
